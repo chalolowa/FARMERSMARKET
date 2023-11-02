@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+html{
+    overflow-x: hidden;
+}
+body {
+    background: #080808;
+    color: #fff;
+}
+header {
+    background-color: aquamarine !important;
+}
+#head {
+    background-color: cadetblue !important;
+}
+#menu-nav {
+    background-color: darkolivegreen !important;
+    margin: 0;
+}
+#menu-drop {
+    margin-left: 30px;
+}
+#menu-drop i {
+    font-size: 30px;
+}
+section {
+    margin: 0 10px 0 10px !important;
+    background-color: burlywood !important;
+}
+#conta {
+    padding: 10px;
+}
+#card-me {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#card-me .card img {
+    width: 350px;
+    height: 320px;
+}
+footer {
+    background-color: darkgray;
+    margin: 0;
+}
+footer .container {
+    display: flex;
+}
+footer .join {
+    justify-content: left;
+    margin-right: 40px;
+}
+footer .pay {
+    justify-content: end;
+    margin-left: 40px;
+}
+footer #zon {
+    background-color: transparent !important;
+}
